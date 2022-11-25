@@ -1,8 +1,8 @@
 # Configurations
 title:            《台灣俗語鹹酸甜第2冊》
 longtitle:        Tâi-oân Sio̍k-gí Kiâm-sng-tiⁿ (台灣俗語鹹酸甜)
-author:           Siau Lah-jih
-email:            tzuhua818@gmail.com
+author:           
+email:            
 description: >
   Build Jekyll site with the GitBook style.
 
@@ -10,7 +10,7 @@ version:          0.1
 gitbook_version:  3.2.3
 
 url:              ''
-baseurl:          'https://siaulahjih.github.io/KiamSngTinn2'
+baseurl:          'https://bulusuh.github.io/blog/'
 rss:              RSS
 
 toc:
