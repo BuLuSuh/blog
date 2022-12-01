@@ -1,7 +1,7 @@
 ---
 layout: home
 ---
-## 《BuLùSuh ê Kám-á-tiàm》
+### 《BuLùSuh ê Kám-á-tiàm》
 ![](too5/thauiah.jpg)
 
 - Chit ê bāng-chām sī BuLùsuh teh kì-lo̍k ka-tī seng-oa̍h só͘-chāi.
